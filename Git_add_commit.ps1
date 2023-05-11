@@ -1,2 +1,2 @@
 git add .
-git commit -m "Hoc duoc Python-Variables Python-Data-Types Python-Numbers tu 13h26 - 16h12 (02h36') code (01h22') fun(1h14')"
+git commit -m "Summary at 22h34' Hoc 4 muc Python tren W3school chung ta code duoc 273 line va code trong 2h17'"

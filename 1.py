@@ -33,15 +33,17 @@ LinhBo2_attack_speed = 1
 LinhBo2_move_speed = 2
 LinhBo2_pos = [400, 400]
 
+
 def draw_linhbo(linhbo, position):
     game_surface.blit(linhbo, position)
+
 
 # Vẽ đơn vị LinhBo1
 draw_linhbo(LinhBo1, LinhBo1_pos)
 
 # Vẽ đơn vị LinhBo2
 draw_linhbo(LinhBo2, LinhBo2_pos)
-
+"""
 # Hàm di chuyển đơn vị
 def move_unit(unit_pos, target_pos, move_speed):
     # Tính toán khoảng cách giữa đơn vị và mục tiêu
@@ -62,6 +64,8 @@ def move_unit(unit_pos, target_pos, move_speed):
 def collide(unit1_pos, unit2_pos):
     distance = ((unit1_pos[0]-unit2_pos[0])**2 + (unit1_pos[1]-unit2_pos[1])**2)**0.5
     return distance < 20  # 20 là bán kính của đơn vị
+"""
+
 
 # Vòng lặp game
 start_time = time.time()
@@ -71,6 +75,3 @@ while time.time() - start_time < 100:
         if event.type == pygame.QUIT:
             pygame.quit()
             quit()
-
-   
-

@@ -1,19 +1,7 @@
-11/05/2023 - 13h26' Phòng cũ của mẹ (không chuyển thì chúng ta không nhắc)
+12/05/2023 - 08h33' We still here unemployment and trying to learning Python and get a job make money
 
-13h26' - 13h33' (07') : Python-Variables    (23)  # Casting # Creating Variables 
-13h39' - 13h49' (10') : Python-Variables    (21)  # Get the Type # Single or Double Quotes?
-14h00' - 14h12' (12') : Python-Variables    (44)  # Unpack a Collection # Many Values to Multiple Variables
-14h22' - 14h32' (10') : Python-Variables    (18)  # Unpack a Collection # Output Variables 
-14h43' - 15h05' (22') : Python-Variables    (31)  # Global Variables # The global Keyword
-15h51' - 16h12' (21') : Python-Data-Types   (53)  # Built-in Data Types
-                        Python-Numbers      (10)  # Python Numbers
+                 13                          18
+08h35' - 08h48' (13') : Exerise-Summary     (18) # Exerise-Summary   
 
-17h02' - 17h16' (14') : Python-Numbers      (15)  # Random Number
-
-18h22' - 18h35' (13') : Python-Casting      (16)  # Specify a Variable Type
-
-19h12' - 19h22' (10') : Python-Strings      (20)  # Multiline Strings # Looping Through a String
-
-20h15' - 20h33' (18') : Python-Strings      (22)  # String Length
-
+09h24' -
 

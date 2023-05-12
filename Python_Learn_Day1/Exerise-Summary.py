@@ -20,3 +20,46 @@ if y2 < x2:
     print("5test y2 < x2")
 if y2 >= x2:
     print("6test y2 >= x2")
+
+
+def testgloble1():
+    x = int(123)
+    x1 = float(3.14)
+    x2 = complex(9j)
+    x3 = str(2323)
+
+
+print("\nIn cac so x x1 x2 x3 binh thuong:")
+print("x =", x, type(x), "x1 =", x1, type(x1),
+      "x2 =", x2, type(x2), "x3 =", x3, type(x3))
+testgloble1()
+print("\nSau khi testgloble1")
+print("x =", x, type(x), "x1 =", x1, type(x1),
+      "x2 =", x2, type(x2), "x3 =", x3, type(x3))
+
+
+def testgloble2():
+    global x, x1, x2, x3
+    x = int(123)
+    x1 = float(3.14)
+    x2 = complex(9j)
+    x3 = str(2323)
+
+
+testgloble2()
+print("\nSau khi testgloble2")
+print("x =", x, type(x), "x1 =", x1, type(x1),
+      "x2 =", x2, type(x2), "x3 =", x3, type(x3))
+
+
+def testgloble3():
+    y = float(x)
+    y1 = str(x1)
+    y2 = str(x2)
+    y3 = int(x3)
+    print("\nIn trong Ham testgloble3")
+    print("y =", y, type(y), "y1 =", y1, type(y1),
+          "y2 =", y2, type(y2), "y3 =", y3, type(y3))
+
+
+testgloble3()

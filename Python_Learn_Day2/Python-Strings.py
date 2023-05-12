@@ -45,3 +45,39 @@ for x in b:
 
 print(a[-5:], b[-6:-2], b[-17:])
 print(b[-12:-8], b[7:-6], b[-6:-4])
+
+# Python - Modify Strings
+# Upper Case
+# Lower Case
+print("\nUpper Case, Lower Case")
+print(a, b)
+c = "Hom nay lam di lam lai"
+print(c.upper(), a.upper(), b.upper())
+print(c.lower(), a.lower(), b.lower())
+
+# Remove Whitespace
+print("\nRemove Whitespace")
+d = "   Xep gach co time line thoi ma    "
+print(d, "\n" + d.strip())
+d1 = "                  sd                       "
+print(d1, "\n" + d1.strip())
+d2 = "                 34"
+print(d2, "\n" + d2.strip())
+
+# Replace String
+print("\nReplace String")
+print(a, b, c)
+
+
+def thaythechu():
+    a1 = a.replace("Hello", "Good")
+    print("new a :", a1)
+    b1 = b.replace("Nguyen", "Tran")
+    print("new b :", b1)
+    c1 = c.replace("Hom nay", "Ngay mai")
+    print("new c :", c1)
+    print("cai gi do khong o do :", a.replace("Ngu", "ASD"))
+
+
+thaythechu()
+print(a, 13 + 5 + 8 + 14 + 40 + 13 - 60)

@@ -1,6 +1,6 @@
 12/05/2023 - 08h33' We still here unemployment and trying to learning Python and get a job make money
 
-                 40'                         84
+                02h05'                       171
 08h35' - 08h48' (13') : Exerise-Summary     (08) # Exerise-Summary   
 
 09h24' - 09h30' (05') : Exerise-Summary     (02) # Exerise-Summary    
@@ -8,4 +8,10 @@
 15h47' - 16h00' (14') : Exerise-Summary     (43) # Exerise-Summary
 16h16' - 16h56' (40') : Python-Strings      (48) # Check String # Check if NOT # Python - Slicing Strings # Negative Indexing
 
-17h28' - 17h41' (13') : Python-Strings      (19) # 
+17h28' - 17h41' (13') : Python-Strings      (19) # Upper Case # Lower Case # Remove Whitespace # Replace String
+
+18h03' - 18h13' (10') : Python-Strings      (12) # Split String
+
+19h02' - 19h11' (09') : Python-Strings      (08) # String Concatenation
+
+20h07' - 20h20' (13') : Python-Strings      (31) # String Concatenation # String Format

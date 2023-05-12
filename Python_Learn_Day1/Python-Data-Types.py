@@ -17,37 +17,37 @@ if 2 < 3:
     print(a)
     print(type(a))
 a = 12
-print(a, type(a))
+print(a, "\t ", type(a))
 a = "Hello"
-print(a, type(a))
+print(a, "\t ", type(a))
 a = 3.14
-print(a, type(a))
+print(a, "\t ", type(a))
 a = 123j
-print(a, type(a))
+print(a, "\t ", type(a))
 a = ["ads", "sad", "123"]
-print(a, type(a))
+print(a, "\t ", type(a))
 a = ("áds", "sdsd", 'dsd')
-print(a, type(a))
+print(a, "\t ", type(a))
 a = range(5)
-print(a, type(a))
+print(a, "\t ", type(a))
 a = {"name": "Duong", "age": 23}
-print(a, type(a))
+print(a, "\t ", type(a))
 a = {"Duong", "Nguen", "Thai"}
-print(a, type(a))
+print(a, "\t ", type(a))
 a = frozenset({1, 2, 3})
-print(a, type(a))
+print(a, "\t ", type(a))
 a = True
-print(a, type(a))
+print(a, "\t ", type(a))
 a = b'What'
-print(a, type(a))
+print(a, "\t ", type(a))
 a = bytearray(6)
-print(a, type(a))
+print(a, "\t ", type(a))
 a = memoryview(bytes(4))
-print(a, type(a))
+print(a, "\t ", type(a))
 a = None
-print(a, type(a))
+print(a, "\t ", type(a))
 print("\n\n")
 a = str("Hello_World")
-print(a, type(a))
+print(a, "\t ", type(a))
 a = 34
-print(a, type(a))
+print(a, "\t ", type(a))

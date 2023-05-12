@@ -81,3 +81,60 @@ def thaythechu():
 
 thaythechu()
 print(a, 13 + 5 + 8 + 14 + 40 + 13 - 60)
+
+# Split String
+print("\nSplit String")
+
+
+def chiachu():
+    a1 = a.split("e")
+    print("new a1 :", a1, type(a1))
+    for x in a1:
+        print(x)
+
+
+chiachu()
+
+# String Concatenation
+print("String Concatenation")
+a = "Nguyen"
+b = "Thai"
+c = "Duong"
+abc = [a, b, c]
+d = a + " " + b + " " + c
+print(d, len(d), type(d))
+print(abc, len(abc), type(abc))
+
+
+def Nhandoi():
+    global D, D1
+    A, A1 = a.upper(), a.lower()
+    B, B1 = b.upper(), b.lower()
+    C, C1 = c.upper(), c.lower()
+    D = A + " " + B + " " + C
+    D1 = A1 + " " + B1 + " " + C1
+
+
+print("Sau khi nhan doi:")
+Nhandoi()
+print(d, len(d), type(d))
+print(D, len(D), type(D))
+print(D1, len(D1), type(D1))
+
+# String Format
+print("\nString Format")
+x = 24
+t = "Toi nam nay {} tuoi"
+xt = t.format(x)
+print(xt)
+
+
+def DutsoVaoChu():
+    d1 = d.replace("Duong", "Duong nam nay {} tuoi")
+    d2 = d1.format(x)
+    print(d2)
+
+
+# Cu phai thay doi ten tuoi lien tuc
+DutsoVaoChu()
+print(13+9+10+13+40+14+8+5+13-60)

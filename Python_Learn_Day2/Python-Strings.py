@@ -138,3 +138,78 @@ def DutsoVaoChu():
 # Cu phai thay doi ten tuoi lien tuc
 DutsoVaoChu()
 print(13+9+10+13+40+14+8+5+13-60)
+
+# Escape Character
+print("\nEscape Character")
+# To insert characters that are illegal in a string, use an escape character.
+# An escape character is a backslash \ followed by the character you want to insert.
+# An example of an illegal character is a double quote inside a string that is surrounded by double quotes:
+# \' Single Quote
+print("Single \' Chung ta dang \' Quote")
+print("Backslash of an \\ Ten tui la cham chi chang \\ what for what ")
+print("\nNew Line")
+print("\rCarriage Return")
+print("\tTab")
+print("Food\bBackspace")
+print("\fForm Feed")
+print("\ooo	Octal value \141\142\143\144\145\146")
+print("\x63", "\x64", "\x66")
+print(d)
+
+# String Methods
+print("\nString Methods")
+t = "co cai gi do thoi"
+t1 = "CHUNG TA DANG TU TIM HIEU"
+# capitalize() Converts the first character to upper case
+print(t, ".sau khi su dung capitalize() : ", t.capitalize())
+# casefold() Converts string into lower case
+print(d, ".sau khi su dung casefold()", d.casefold())
+# center() Returns a centered string
+print(d, ".sau khi su dung center(30, \"-\")", d.center(30, "-"))
+# count() Returns the number of times a specified value occurs in a string
+print(d, ".sau khi su dung count(\"n\")", d.count("n"))
+# encode()	Returns an encoded version of the string
+txt = "My name is Ståle"
+print(txt, ".sau khi su dung encode()", txt.encode())
+print(txt, ".sau khi su dung encode()", txt.encode(
+    encoding="ascii", errors="backslashreplace"))
+print(txt, ".sau khi su dung encode()", txt.encode(
+    encoding="ascii", errors="ignore"))
+print(txt, ".sau khi su dung encode()", txt.encode(
+    encoding="ascii", errors="namereplace"))
+print(txt, ".sau khi su dung encode()", txt.encode(
+    encoding="ascii", errors="replace"))
+print(txt, ".sau khi su dung encode()", txt.encode(
+    encoding="ascii", errors="xmlcharrefreplace"))
+# endswith() Returns true if the string ends with the specified value
+print(d, ".sau khi su dung endswith(\"ng\")", d.endswith("ng"))
+# expandtabs()	Sets the tab size of the string
+
+
+def expandtabsNEW():
+    d = "H\te\tl\tl\to"
+    print(d, ".sau khi su dung expandtabs()", d.expandtabs())
+    print(d, ".sau khi su dung expandtabs(0)", d.expandtabs(0))
+    print(d, ".sau khi su dung expandtabs(1)", d.expandtabs(1))
+    print(d, ".sau khi su dung expandtabs(2)", d.expandtabs(2))
+    print(d, ".sau khi su dung expandtabs(3)", d.expandtabs(3))
+    print(d, ".sau khi su dung expandtabs(4)", d.expandtabs(4))
+
+
+expandtabsNEW()
+
+print(d)
+# find() Searches the string for a specified value and returns the position of where it was found
+print(d, ".sau khi su dung find(\"Thai\")", d.find("Thai"))
+print(d, ".sau khi su dung find(\"34\")", d.find("34"))
+print(d, ".sau khi su dung index(\"Thai\")", d.index("Thai"))
+# format()	Formats specified values in a string
+
+
+def formatNEW():
+    d = "Nguyen {coccon:<2f} Duong"
+    print(d.format(coccon=69))
+
+
+formatNEW()
+print(214 - 155)

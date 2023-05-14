@@ -1,8 +1,5 @@
-13/05/2023 - 08h35' We still here unemployment and trying to learning Python and get a job make money
+14/05/2023 - 13h43' We bevile in code is = money let make some fast
 
-
-
-08h36' - 08h46' (10') : Python-Strings      (14) # Escape character # \' Single Quote
-08h55' - 09h09' (14') : Python-Strings      (07) # Escape character # \' Single Quote
-
-15h05' - 15h45' (40') : Python-Strings      (60) # Escape Character # String Methods # format()
+                01h10'                       96
+13h51' - 14h01' (10') : Python-Strings      (08) # Escape Character # format()	    
+18h26' - 19h26' (60') : Python-Booleans     (86) # Boolean Values # Most Values are True

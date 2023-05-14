@@ -213,3 +213,13 @@ def formatNEW():
 
 formatNEW()
 print(214 - 155)
+
+t1 = "Chung ta tin {muc_do_tin} gửi tâm linh code kiếm cho chúng ta {luong} lương hàng tháng tin vào".format(
+    muc_do_tin="Tuyệt Đối", luong=10000)
+print(t1)
+
+t2 = "Every thing we do we code {0} beleving to it make us {1}".format("By", "Money")
+print(t2)
+
+t3 = "For what ever the code is we belevie {} to send it to fill our trust we will make {}".format("100%", "Money")
+# https://www.w3schools.com/python/ref_string_format.asp

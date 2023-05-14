@@ -18,11 +18,11 @@
 
 Summary
 
-13h26' - 20h33'         (2h17')                     273 code line            4h22'     444
+Day1 13h26' - 20h33'         (2h17')                     273 code line            4h22'     444
 
 12/05/2023 - 08h33' We still here unemployment and trying to learning Python and get a job make money
 
-                02h05'                       171
+Day2                02h05'                       171
 08h35' - 08h48' (13') : Exerise-Summary     (08) # Exerise-Summary   
 
 09h24' - 09h30' (05') : Exerise-Summary     (02) # Exerise-Summary    
@@ -38,4 +38,15 @@ Summary
 
 20h07' - 20h20' (13') : Python-Strings      (31) # String Concatenation # String Format
 
-4h22'     444
+13/05/2023 - 08h35' We still here unemployment and trying to learning Python and get a job make money
+
+
+
+08h36' - 08h46' (10') : Python-Strings      (14) # Escape character # \' Single Quote
+08h55' - 09h09' (14') : Python-Strings      (07) # Escape character # \' Single Quote
+
+15h05' - 15h45' (40') : Python-Strings      (60) # Escape Character # String Methods # format()
+Day3               01h04'                       81
+
+
+All     3h26'     525

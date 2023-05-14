@@ -57,30 +57,43 @@ def Some_Values_are_False():
     print(Ketnoi)
     print(bool(Ketnoi))
 
+# Functions can Return a Boolean
+def Functions_can_Return_a_Boolean1():
+    def Functions_can_Return_a_Boolean():
+        return True
+    if Functions_can_Return_a_Boolean():
+        print("Yes")
+    else:
+        print("No")
+    x = 200
+    print(isinstance(x, complex))
 
 # Đang dừng lại ở Functions can Return a Boolean
 
 while (1):# Cái gì nhỉ ấn số với mỗi một function là một số chúng ta gửi tín hiệu kiếm tiền 
         # if xong đó có thể đó là switch  if a = 1 thì function thứ nhất 
-        print("\n0. Thoát\n1. test1\n2. CheckOddEven\n3. Evaluate_Values_and_Variables\n4. Most_Values_are_True\n5. Some_Values_are_False")
+        print("\n0. Thoát\n1. test1\n2. CheckOddEven\n3. Evaluate_Values_and_Variables\n4. Most_Values_are_True\n5. Some_Values_are_False\n6. Functions can Return a Boolean")
         a = int(input("Nhập function muốn làm  "))
         if a == 0:
             break
         if a == 1:
-            print("\n1. test1")
+            print("\n1. test1:")
             test1()
         if a == 2:
-            print("\n2. CheckOddEven")
+            print("\n2. CheckOddEven:")
             CheckOddEven()
         if a == 3:
-             print("\n3. Evaluate_Values_and_Variables")
+             print("\n3. Evaluate_Values_and_Variables:")
              Evaluate_Values_and_Variables()
         if a == 4:
-             print("\n4. Most_Values_are_True")
+             print("\n4. Most_Values_are_True:")
              Most_Values_are_True()
         if a == 5:
-            print("\n5. Some_Values_are_False")
+            print("\n5. Some_Values_are_False:")
             Some_Values_are_False()
+        if a == 6:
+            print("\n6. Functions can Return a Boolean:")
+            Functions_can_Return_a_Boolean1()
 
 
 

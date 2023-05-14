@@ -1,5 +1,0 @@
-14/05/2023 - 13h43' We bevile in code is = money let make some fast
-
-                01h10'                       96
-13h51' - 14h01' (10') : Python-Strings      (08) # Escape Character # format()	    
-18h26' - 19h26' (60') : Python-Booleans     (86) # Boolean Values # Most Values are True

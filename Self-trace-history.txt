@@ -48,5 +48,18 @@ Day2                02h05'                       171
 15h05' - 15h45' (40') : Python-Strings      (60) # Escape Character # String Methods # format()
 Day3               01h04'                       81
 
+14/05/2023 - 13h43' We bevile in code is = money let make some fast
 
-All     3h26'     525
+Day 4:           01h42'                      141
+13h51' - 14h01' (10') : Python-Strings      (08) # Escape Character # format()	    
+18h26' - 19h26' (60') : Python-Booleans     (86) # Boolean Values # Most Values are True
+22h53' - 23h00' (07') : Python-Booleans     (04) # Functions can Return a Boolean
+23h20' - 23h25' (05') : Python-Booleans     (02) # Functions can Return a Boolean
+23h28' - 00h00' (32') : Python-Operators    (45) # Python Arithmetic Operators
+
+
+Day 1    (02h17')    273 
+Day 2    (02h05')    171  
+Day 3    (01h04')    81
+Day 4    (01h42')    140
+All      (07h08')    665 code line

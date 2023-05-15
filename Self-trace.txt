@@ -1,4 +1,6 @@
 15/05/2023 - 07h21' Code for health code for dopamine we code like play game code for belevie in money
 
-Day 5:           '                      0
-07h30' - 
+Day 5:           78                          73
+
+07h30' - 08h48' (78') : Python-Operators    (73) # Python Assignment Operators # Python Comparison Operators
+16h30' - 16h43' (13') : Python-Operators    (23) # Python Logical Operators

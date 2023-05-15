@@ -97,15 +97,37 @@ def Python_Comparison_Operators():
             print("\n\tEnd.")
             return belevie
 
+# Python Logical Operators
+
+
+def Python_Logical_Operators():
+    while (1):
+        print("\n\tPython Logical Operators\n----------------------------------------------------------------------------------------------------------------------------------------------------")
+        print("\t0. exit")
+        print("\t1. Continue")
+        z = int(input("\tInput: "))
+        if z == 1:
+            x = int(input("\tx: "))
+            if x < 1 and x < 10:
+                print("\n\tx lower than 1")
+            if x < 5 or x < 4:
+                print("\tx lower than 5 or 4")
+            if not (x < 1 and x < 10):
+                print("\tx is not bout lower than 1 and lower than 10")
+        else:
+            print("\n\tEnd.")
+            return belevie
+
 
 belevie = True
-print(118 - 45)
+print(141 - 45 - 73)
 while belevie:
     print("\n--------------------------------------------------------------------------\n--------------------------------------------------------------------------")
     print("0. Exit")
     print("1. Python basic caculator")
     print("2. Python Assignment Operators")
     print("3. Python Comparison Operators")
+    print("4. Python Logical Operators")
     z = int(input("Input: "))
     if z == 1:
         Python_Operators()
@@ -113,5 +135,7 @@ while belevie:
         Python_Assignment_Operators()
     elif z == 3:
         Python_Comparison_Operators()
+    elif z == 4:
+        Python_Logical_Operators()
     else:
         belevie = False

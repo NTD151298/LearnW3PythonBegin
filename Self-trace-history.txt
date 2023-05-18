@@ -57,9 +57,14 @@ Day 4:           01h42'                      141
 23h20' - 23h25' (05') : Python-Booleans     (02) # Functions can Return a Boolean
 23h28' - 00h00' (32') : Python-Operators    (45) # Python Arithmetic Operators
 
+15/05/2023 - 07h21' Code for health code for dopamine we code like play game code for belevie in money
+Day 5:           91'                         96
+07h30' - 08h48' (78') : Python-Operators    (73) # Python Assignment Operators # Python Comparison Operators
+16h30' - 16h43' (13') : Python-Operators    (23) # Python Logical Operators
 
 Day 1    (02h17')    273 
 Day 2    (02h05')    171  
 Day 3    (01h04')    81
 Day 4    (01h42')    140
-All      (07h08')    665 code line
+Day 5    (01h31')    96
+All      (08h39')    761 code line

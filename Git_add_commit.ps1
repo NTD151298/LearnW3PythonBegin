@@ -1,2 +1,2 @@
 git add .
-git commit -m "Allaway have a open mount to redy to talk fight dopamine inflame overflow at 16h45' 15-05-2023"
+git commit -m "Talk and point to solve bro hold up and fix the wire 03h07' 19-05-2023"

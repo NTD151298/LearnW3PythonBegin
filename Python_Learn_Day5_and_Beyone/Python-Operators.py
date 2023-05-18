@@ -119,6 +119,51 @@ def Python_Logical_Operators():
             return belevie
 
 
+def Python_Membership_Operators():
+    while (1):
+        print("\n\tPython Membership Operators\n----------------------------------------------------------------------------------------------------------------------------------------------------")
+        print("\t0. exit")
+        print("\t1. Continue")
+        z = int(input("\tInput: "))
+        if z == 1:
+            Chuan = True
+            A = ["Nguyen", "Thai", "Duong"]
+            print("\t", A)
+            a = str(input("\tInput: "))
+            if a in A:
+                print("\tWord in list A. Very good")
+            if a == A[0]:
+                print("\tWord is Nguyen, good")
+            if a == A[1]:
+                print("\tWord is Thai, good")
+            if a == A[2]:
+                print("\tWord is Duong, good")
+            if a not in A:
+                print("\tWord not in list A. We end here")
+        else:
+            print("\n\tEnd.")
+            return belevie
+
+
+def Python_Bitwise_Operators():
+    while (1):
+        print("\n\tPython Bitwise Operators Logic Gate Logic Gate\n----------------------------------------------------------------------------------------------------------------------------------------------------")
+        print("\t0. exit")
+        print("\t1. Continue")
+        z = int(input("\tInput: "))
+        if z == 1:
+            x, y = int(input("\tx: ")), int(input("\ty: "))
+            print("\tAND gate: ", x & y)
+            print("\tOR gate: ", x | y)
+            print("\tXOR gate: ", x ^ y)
+            print("\tNOT gate x: ", ~x, "NOT gate y: ", ~y)
+            print("\tZero fill left shift: ", x << y)
+            print("\tSigned right shift gate: ", x >> y)
+        else:
+            print("\n\tEnd.")
+            return belevie
+
+
 belevie = True
 print(141 - 45 - 73)
 while belevie:
@@ -128,6 +173,8 @@ while belevie:
     print("2. Python Assignment Operators")
     print("3. Python Comparison Operators")
     print("4. Python Logical Operators")
+    print("5. Python Membership Operators")
+    print("6. Python Bitwise Operators Logic Gate")
     z = int(input("Input: "))
     if z == 1:
         Python_Operators()
@@ -137,5 +184,9 @@ while belevie:
         Python_Comparison_Operators()
     elif z == 4:
         Python_Logical_Operators()
+    elif z == 5:
+        Python_Membership_Operators()
+    elif z == 6:
+        Python_Bitwise_Operators()
     else:
         belevie = False

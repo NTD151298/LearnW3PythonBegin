@@ -43,3 +43,21 @@ print(list_cout[2:], list_cout[-3:])
 print("Hello world")
 
 # Change Item Value
+print("\nChange Item Value")
+list_duong1 = ["nguyen", "thai", "duong", 1512]
+i, j = 0, - len(list_duong1)
+for x in list_duong1:
+    print(x, "\t", i, "\t", j)
+    i += 1
+    j += 1
+list_duong1[0], list_duong1[1] = "Tran", "Huyen"
+print("\nTest new list after change the fist and second string")
+i, j = 0, - len(list_duong1)
+for x in list_duong1:
+    print(x, "\t", i, "\t", j)
+    i += 1
+    j += 1
+# Change a Range of Item Values
+print(list_duong1[-3:-1])
+list_duong1[-3:-1] = ['Binh', 'Duong']
+print(list_duong1[-3:-1])

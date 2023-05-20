@@ -1,7 +1,7 @@
 20/05/2023 - 02h20' Talk and solve code in english fist pointing figer to colect thing and meaning
 Day 7:           30'                         38
 06h47' - 07h17' (30') : Python-Lists        (38) # List Items Data Types # Python Access List Items
+16h34' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
 
-00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators

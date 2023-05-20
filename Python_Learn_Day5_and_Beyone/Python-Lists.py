@@ -31,9 +31,13 @@ print(This_list)
 print("\nPython - Access List Items")
 list_cout = ['Hom', 'nay', 'la', 'mot', 'cai']
 i = 0
-j = 0
+j = - len(list_cout)
 for x in list_cout:
     print(x + "\t" + str(i) + "\t" + str(j))
     i = i + 1
-    j = j - 1
-print("leng of list is: ", len(list_cout))
+    j = j + 1
+if "Hom" in list_cout:
+    print("Hom co trong list_cout")
+print("leng of list is: ", len(list_cout))  # chúng ta đang có ý
+print(list_cout[2:], list_cout[-3:])
+print("Hello world")

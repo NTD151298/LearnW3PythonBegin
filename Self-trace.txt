@@ -1,4 +1,7 @@
-19/05/2023 - 02h20' Talk and solve code in english fist 
-Day 6:           36'                         41
-02h20' - 02h30' (10') : Python-Operators    (18) # Python Membership Operators
-02h38' - 03h04' (26') : Python-Operators    (23) # Python Membership Operators # Python Bitwise Operators
+20/05/2023 - 02h20' Talk and solve code in english fist pointing figer to colect thing and meaning
+Day 7:           30'                         38
+06h47' - 07h17' (30') : Python-Lists        (38) # List Items Data Types # Python Access List Items
+
+00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
+00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
+00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators

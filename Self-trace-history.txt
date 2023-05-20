@@ -50,10 +50,18 @@ Day 6:           36'                         41
 02h38' - 03h04' (26') : Python-Operators    (23) # Python Membership Operators # Python Bitwise Operators
 03h28' - 03h32' (04') : Python-Lists        (02) # Python Lists
 
+20/05/2023 - 02h20' Talk and solve code in english fist pointing figer to colect thing and meaning
+Day 7:          131'                         91
+06h47' - 07h17' (30') : Python-Lists        (38) # List Items Data Types # Python Access List Items
+16h34' - 16h43' (09') : Python-Lists        (08) # Python Access List Items
+16h45' - 16h50' (05') : Python_Fast_Learn   (17) # Python
+21h00' - 22h27' (87') : Python-Lists        (31) # Change Item Value # Change a Range of Item Values
+
 Day 1    (02h17')    273 
 Day 2    (02h05')    171  
 Day 3    (01h04')    81
 Day 4    (01h42')    140
 Day 5    (01h31')    96
 Day 6    (00h36')    41
-All      (09h15')    802 code line
+Day 7    (02h11')    91
+All      (11h26')    893 code line

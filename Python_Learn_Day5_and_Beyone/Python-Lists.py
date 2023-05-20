@@ -41,3 +41,5 @@ if "Hom" in list_cout:
 print("leng of list is: ", len(list_cout))  # chúng ta đang có ý
 print(list_cout[2:], list_cout[-3:])
 print("Hello world")
+
+# Change Item Value

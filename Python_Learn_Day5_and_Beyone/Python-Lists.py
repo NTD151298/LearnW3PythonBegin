@@ -176,3 +176,27 @@ new_list_03 = list(x if x != '123    ' else 'code    ' for x in new_list_01)
 print(new_list_03)
 new_list_03 = list(x if x != 'code    ' else '555    ' for x in new_list_01)
 print(new_list_03)
+
+# Sort List Alphanumerically
+print("\nSort List Alphanumerically")
+list_duong_new3 = ["Nguyen", "Thai", "Duong",
+                   1512, 1998, 20, 1, 6, 369, "dang", "hoc", "lap", "trinh"]
+print(list_duong_new3)
+print(type(list_duong_new3), "Leng of list_duong_new3 is:", len(list_duong_new3))
+list_duong_new3.sort(key=str)
+print(list_duong_new3)
+list_duong_new4 = list(x for x in list_duong_new3 if not isinstance(x, int))
+list_duong_new5 = list(x for x in list_duong_new3 if not isinstance(x, str))
+list_duong_new5.sort()
+list_duong_new4.sort()
+print(list_duong_new4)
+print(list_duong_new5)
+# Sort Descending
+print("\nSort Descending")
+abc = True
+list_duong_new3.sort(key=str, reverse=abc)
+print(list_duong_new3)
+list_duong_new4.sort(reverse=abc)
+print(list_duong_new4)
+list_duong_new5.sort(reverse=abc)
+print(list_duong_new5)

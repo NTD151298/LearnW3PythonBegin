@@ -1,7 +1,6 @@
-21/05/2023 - 02h20' Dopamine
-Day 8:           67'                        122
-01h30' - 02h14' (44') : Python-Lists        (87) # Remove Specified Item # Loop Through a List # Using a While Loop # List Comprehension
-02h38' - 03h01' (23') : Python-Lists        (35) # The Syntax
-18h41' - 
+22/05/2023 - 14h14' Dopamine MEditation
+Day 9:           00'                        000
+14h15' - 
+
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators

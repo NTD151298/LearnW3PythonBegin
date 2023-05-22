@@ -200,3 +200,37 @@ list_duong_new4.sort(reverse=abc)
 print(list_duong_new4)
 list_duong_new5.sort(reverse=abc)
 print(list_duong_new5)
+
+# Customize Sort Function
+print("\nCustomize Sort Function")
+# You can also customize your own function by using the keyword argument key = function.
+# The function will return a number that will be used to sort the list (the lowest number first):
+
+
+def funcion_001(n):
+    return abs(n - 500)
+
+
+number_list = [24, 15, 12, 98, 19, 60, 66, 69, 100, 50]
+print(number_list)
+number_list.sort(key=funcion_001)
+print(number_list)
+
+# Case Insensitive Sort
+print("\nCase Insensitive Sort")
+random_list = ['daui', 'Bay', 'ooks', 'QWE', 'Azlxo']
+print(random_list)
+random_list.sort()
+print(random_list)
+random_list.sort(key=str.lower)
+print(random_list)
+random_list.sort(key=str.upper)
+print(random_list)
+# Reverse Order
+print("\nReverse Order")
+# What if you want to reverse the order of a list, regardless of the alphabet?
+# The reverse() method reverses the current sorting order of the elements.
+print(random_list, len(random_list))
+random_list.reverse()
+print(random_list, len(random_list))
+print(236 - 204)

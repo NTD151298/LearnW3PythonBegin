@@ -57,6 +57,12 @@ Day 7:          131'                         91
 16h45' - 16h50' (05') : Python_Fast_Learn   (17) # Python
 21h00' - 22h27' (87') : Python-Lists        (31) # Change Item Value # Change a Range of Item Values
 
+21/05/2023 - 02h20' Dopamine
+Day 8:           80'                        158
+01h30' - 02h14' (44') : Python-Lists        (87) # Remove Specified Item # Loop Through a List # Using a While Loop # List Comprehension
+02h38' - 03h01' (23') : Python-Lists        (35) # The Syntax
+18h41' - 19h04' (13') : Python-Lists        (36) # Sort Descending
+
 Day 1    (02h17')    273 
 Day 2    (02h05')    171  
 Day 3    (01h04')    81
@@ -64,4 +70,5 @@ Day 4    (01h42')    140
 Day 5    (01h31')    96
 Day 6    (00h36')    41
 Day 7    (02h11')    91
-All      (11h26')    893 code line
+Day 8    (01h20')    158
+All      (12h46')    1051 code line

@@ -38,4 +38,4 @@ for i in range(len(m1) - 1, -1, -1):
 #
 # # In kết quả
 print("m1 =", m1)
-#print("m2 =", m2)
+print("m2 =", m2)

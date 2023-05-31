@@ -1,6 +1,6 @@
-22/05/2023 - 14h14' Dopamine MEditation
-Day 9:           00'                        000
-14h15' - 14h34' (19') : Python-Lists        (32) # Customize Sort Function # Customize Sort Function # Reverse Order
+01/06/2023 - 00h48' Do thing easy
+Day 10:           00'                        000
+00h48' - 00h53'
 
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators
 00h00' - 00h30' (00') : Python-Operators    (00) # Python Membership Operators

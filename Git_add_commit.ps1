@@ -1,2 +1,2 @@
 git add .
-git commit -m "Some leet code 23-05-2023"
+git commit -m "Some easy code 06-2023"

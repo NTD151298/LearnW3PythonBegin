@@ -63,6 +63,11 @@ Day 8:           80'                        158
 02h38' - 03h01' (23') : Python-Lists        (35) # The Syntax
 18h41' - 19h04' (13') : Python-Lists        (36) # Sort Descending
 
+22/05/2023 - 14h14' Dopamine MEditation
+Day 9:           00'                        000
+14h15' - 14h34' (19') : Python-Lists        (32) # Customize Sort Function # Customize Sort Function # Reverse Order
+
+
 Day 1    (02h17')    273 
 Day 2    (02h05')    171  
 Day 3    (01h04')    81
@@ -71,4 +76,6 @@ Day 5    (01h31')    96
 Day 6    (00h36')    41
 Day 7    (02h11')    91
 Day 8    (01h20')    158
-All      (12h46')    1051 code line
+Day 9    (00h19')    32
+
+All      (13h05')    1083 code line
